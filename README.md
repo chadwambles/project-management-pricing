@@ -147,4 +147,3 @@ bills AI credits as a separate mandatory line and discounts them to zero. That
 is a price rise sitting in plain sight and the model does not anticipate it.
 
 **No negotiated pricing, no nonprofit or education rates, US dollars only.**
-#
