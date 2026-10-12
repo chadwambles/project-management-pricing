@@ -1,0 +1,57 @@
+# .gitignore for the project management pricing study
+#
+# THE RULE THIS FILE ENFORCES
+# The six CSVs in data/ are the dataset and are committed by name. Anything
+# else that lands in data/ stays out until it is added here deliberately.
+# A denylist only protects you from the files you thought of.
+
+# ---------------------------------------------------------------------------
+# Everything data shaped is excluded first.
+# ---------------------------------------------------------------------------
+*.csv
+scratch/
+raw/
+
+# ---------------------------------------------------------------------------
+# The dataset, named one file at a time.
+# ---------------------------------------------------------------------------
+!data/frame.csv
+!data/tiers.csv
+!data/gates.csv
+!data/volume_bands.csv
+!data/addons.csv
+!data/thin_set.csv
+
+# ---------------------------------------------------------------------------
+# Build output. The workbook is committed because it is the deliverable, but
+# anything LibreOffice leaves behind is not.
+# ---------------------------------------------------------------------------
+~$*.xlsx
+.~lock.*
+*.bak
+
+# ---------------------------------------------------------------------------
+# Secrets. Any API key lives in an environment variable and nowhere else.
+# ---------------------------------------------------------------------------
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+credentials.*
+kaggle.json
+.kaggle/
+
+# ---------------------------------------------------------------------------
+# Python and editors.
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

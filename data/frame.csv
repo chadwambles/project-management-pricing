@@ -1,0 +1,51 @@
+g2_rank,vendor,g2_categories,set,deep_order,exclusion_reason
+1,Smartsheet,"PM,TM",deep,1,
+2,monday.com,"PM,TM",deep,2,
+3,ClickUp,"PM,TM",deep,3,
+4,Trello,TM,deep,4,
+5,Asana,"PM,TM",deep,5,
+6,Notion,PM,deep,6,
+7,Jira,PM,deep,7,
+8,Basecamp,PM,deep,8,
+9,Wrike,"PM,TM",deep,9,
+10,Airtable,"PM,TM",thin,,"database product, priced on records and automation rather than project work"
+11,Float.com,PM,thin,,"resource scheduling, not general-purpose project tracking"
+12,BigTime,PM,thin,,professional services time and billing
+13,Quickbase,PM,thin,,low-code application platform
+14,Mural,PM,thin,,visual collaboration whiteboard
+15,Runrun.it,PM,deep,10,
+16,Teamwork.com,"PM,TM",deep,11,
+17,Adobe Workfront,PM,thin,,no public USD pricing
+18,TeamGantt,PM,deep,12,
+19,Rocketlane,PM,thin,,"client onboarding, not general-purpose project tracking"
+20,Todoist,TM,thin,,personal task manager
+21,Zoho Mail,TM,thin,,"email client, miscategorised by the source listing"
+22,Hive,PM,deep,13,
+23,GanttPRO,PM,deep,14,
+24,Zoho Projects,"PM,TM",deep,15,
+25,Celoxis,PM,thin,,
+26,Scoro,PM,thin,,
+27,Backlog,"PM,TM",thin,,
+28,Lytho,PM,thin,,
+29,Aha!,PM,thin,,
+30,morningmate,PM,thin,,
+31,Microsoft Planner,TM,thin,,
+32,Whimsical,PM,thin,,
+33,Freedcamp,PM,thin,,
+34,Worksection,PM,thin,,
+35,Time Champ,PM,thin,,
+36,Linear,"PM,TM",thin,,
+37,ProofHub,PM,thin,,
+38,Conceptboard,PM,thin,,
+39,RoboHead,PM,thin,,
+40,Microsoft To Do,TM,thin,,
+41,Productive,PM,thin,,
+42,Workzone,PM,thin,,
+43,WorkflowMAX,PM,thin,,
+44,Bordio,PM,thin,,
+45,actiTIME,PM,thin,,
+46,SmartSuite,PM,thin,,
+47,ProProfs Project,PM,thin,,
+48,Easy8,PM,thin,,
+49,Orangescrum,PM,thin,,
+50,Agency Handy,PM,thin,,

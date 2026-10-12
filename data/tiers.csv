@@ -1,0 +1,63 @@
+vendor,tier,tier_order,pricing_model,price_annual_usd,price_monthly_usd,flat_annual_usd,flat_monthly_usd,min_seats,max_seats,is_free,price_visible,notes,pricing_url,collected_on
+Smartsheet,Pro,1,per_seat,9,12,,,1,10,no,public,"1-10 Members, unlimited free Contributors",https://www.smartsheet.com/pricing,2026-10-02
+Smartsheet,Business,2,per_seat,19,24,,,3,,no,public,unlimited free Guests and Contributors,https://www.smartsheet.com/pricing,2026-10-02
+Smartsheet,Enterprise,3,per_seat,,,,,10,,no,contact_sales,,https://www.smartsheet.com/pricing,2026-10-02
+Smartsheet,Advanced Work Management,4,per_seat,,,,,,,no,contact_sales,,https://www.smartsheet.com/pricing,2026-10-02
+monday.com,Free,0,per_seat,0,0,,,1,2,yes,public,up to 2 seats,https://monday.com/pricing,2026-10-02
+monday.com,Basic,1,per_seat,9,12,,,,,no,public,"AI credits billed separately: 1000 credits $10/mo, currently offset by a special monthly discount of -$10",https://monday.com/pricing,2026-10-02
+monday.com,Standard,2,per_seat,12,14,,,,,no,public,2000 AI credits $20/mo offset by -$20 promo; automations and integrations capped at 250 actions/month each; timeline and Gantt views start here,https://monday.com/pricing,2026-10-02
+monday.com,Pro,3,per_seat,19,24,,,,,no,public,,https://monday.com/pricing,2026-10-02
+monday.com,Enterprise,4,per_seat,,,,,,,no,contact_sales,,https://monday.com/pricing,2026-10-02
+ClickUp,Free Forever,0,per_seat,0,0,,,1,,yes,public,"60MB storage, unlimited free plan members",https://clickup.com/pricing,2026-10-02
+ClickUp,Unlimited,1,per_seat,7,10,,,1,,no,public,,https://clickup.com/pricing,2026-10-02
+ClickUp,Business,2,per_seat,12,19,,,1,,no,public,5K automations per month,https://clickup.com/pricing,2026-10-02
+ClickUp,Enterprise,3,per_seat,,,,,,,no,contact_sales,250K automations per month,https://clickup.com/pricing,2026-10-02
+Trello,Free,0,per_seat,0,0,,,1,10,yes,public,free for up to 10 collaborators per Workspace,https://trello.com/pricing,2026-10-02
+Trello,Standard,1,per_seat,5,6,,,1,,no,public,,https://trello.com/pricing,2026-10-02
+Trello,Premium,2,per_seat,10,12.50,,,1,,no,public,,https://trello.com/pricing,2026-10-02
+Trello,Enterprise,3,per_seat,17.50,,,,50,,no,public,"annual billing only; per-seat price falls with seat count, see volume_bands.csv; includes Atlassian Guard Standard",https://trello.com/pricing,2026-10-02
+Asana,Personal,0,per_seat,0,0,,,1,,yes,public,,https://asana.com/pricing,2026-10-02
+Asana,Starter,1,per_seat,10.99,13.49,,,1,,no,public,unlimited free guests; timeline and Gantt views start here,https://asana.com/pricing,2026-10-02
+Asana,Advanced,2,per_seat,24.99,30.49,,,1,,no,public,,https://asana.com/pricing,2026-10-02
+Asana,Enterprise,3,per_seat,,,,,,,no,contact_sales,SAML authentication and SCIM user provisioning start here,https://asana.com/pricing,2026-10-02
+Notion,Free,0,per_seat,0,0,,,1,,yes,public,,https://www.notion.com/pricing,2026-10-02
+Notion,Plus,1,per_seat,10,12,,,1,,no,public,,https://www.notion.com/pricing,2026-10-02
+Notion,Business,2,per_seat,20,24,,,1,,no,public,"SAML SSO starts here, not at Enterprise",https://www.notion.com/pricing,2026-10-02
+Notion,Enterprise,3,per_seat,,,,,,,no,contact_sales,audit log starts here,https://www.notion.com/pricing,2026-10-02
+Jira,Free,0,per_seat,0,0,,,1,,yes,public,,https://www.atlassian.com/software/jira/pricing,2026-10-02
+Jira,Standard,1,per_seat,7.50,9.05,,,1,,no,public,"prices are the 1-100 user band; per-seat falls above 100 users, see volume_bands.csv",https://www.atlassian.com/software/jira/pricing,2026-10-02
+Jira,Premium,2,per_seat,15.42,18.30,,,1,,no,public,prices are the 1-100 user band,https://www.atlassian.com/software/jira/pricing,2026-10-02
+Jira,Enterprise,3,per_seat,,,,,,,no,contact_sales,annual billing only,https://www.atlassian.com/software/jira/pricing,2026-10-02
+Basecamp,Free,0,flat,,,0,0,1,5,yes,public,5 users max,https://basecamp.com/pricing,2026-10-02
+Basecamp,Freelancer,1,flat,,,250,25,1,20,no,public,"20 users max, no per-user fees",https://basecamp.com/pricing,2026-10-02
+Basecamp,Studio,2,flat,,,590,59,1,,no,public,"unlimited users, no per-user fees",https://basecamp.com/pricing,2026-10-02
+Basecamp,Pro,3,flat,,,990,99,1,,no,public,"unlimited users, no per-user fees",https://basecamp.com/pricing,2026-10-02
+Basecamp,Unlimited Edition,4,flat,,,3588,299,1,,no,public,"unlimited users, no per-user fees; billed annually",https://basecamp.com/pricing,2026-10-02
+Wrike,Free,0,per_seat,0,0,,,1,,yes,public,,https://www.wrike.com/price/,2026-10-02
+Wrike,Team,1,per_seat,10,,,,2,15,no,public,hard range 2 to 15 users; annual billing only on this page,https://www.wrike.com/price/,2026-10-02
+Wrike,Business,2,per_seat,25,,,,5,200,no,public,hard range 5 to 200 users; a team under 5 still pays for 5,https://www.wrike.com/price/,2026-10-02
+Wrike,Pinnacle,3,per_seat,,,,,,,no,contact_sales,,https://www.wrike.com/price/,2026-10-02
+Wrike,Apex,4,per_seat,,,,,,,no,contact_sales,,https://www.wrike.com/price/,2026-10-02
+Teamwork.com,Free,0,per_seat,0,0,,,1,5,yes,public,"max 5 users",https://www.teamwork.com/pricing/,2026-10-02
+Teamwork.com,Basics,1,per_seat,9.99,13.99,,,3,,no,public,"minimum 3 users",https://www.teamwork.com/pricing/,2026-10-02
+Teamwork.com,Accelerate,2,per_seat,24.99,29.99,,,3,,no,public,,https://www.teamwork.com/pricing/,2026-10-02
+Teamwork.com,Optimize,3,per_seat,,,,,,,no,contact_sales,,https://www.teamwork.com/pricing/,2026-10-02
+Teamwork.com,Enterprise,4,per_seat,,,,,,,no,contact_sales,,https://www.teamwork.com/pricing/,2026-10-02
+TeamGantt,Base,1,per_project,,,590,59,1,11,no,public,"1 manager and 10 collaborators; annual billing 20% off",https://www.teamgantt.com/pricing,2026-10-02
+TeamGantt,Business,2,per_project,,,,120,1,,no,public,"starts at $120/mo for 5 projects, additional projects $24/mo each; unlimited managers and collaborators; annual billing 20% off",https://www.teamgantt.com/pricing,2026-10-02
+TeamGantt,Builder Edition,3,per_project,,,,199,1,,no,public,"starts at $199/mo for 10 projects; annual billing 20% off",https://www.teamgantt.com/pricing,2026-10-02
+Hive,Free,0,per_seat,0,0,,,1,10,yes,public,"200MB storage, up to 10 workspace members, 1000 AI credits/month",https://www.hive.com/pricing/,2026-10-02
+Hive,Starter,1,per_seat,5,7,,,1,10,no,public,"up to 10 workspace members and 10 projects; 3000 AI credits/month; Gantt view starts here",https://www.hive.com/pricing/,2026-10-02
+Hive,Teams,2,per_seat,12,18,,,1,,no,public,"unlimited workspace members; 5000 AI credits/month",https://www.hive.com/pricing/,2026-10-02
+Hive,Enterprise,3,per_seat,,,,,,,no,contact_sales,"custom AI credits",https://www.hive.com/pricing/,2026-10-02
+Zoho Projects,Free,0,per_seat,0,0,,,1,5,yes,public,"up to 5 users",https://www.zoho.com/projects/pricing.html,2026-10-02
+Zoho Projects,Premium,1,per_seat,4,5,,,1,,no,public,,https://www.zoho.com/projects/pricing.html,2026-10-02
+Zoho Projects,Enterprise,2,per_seat,9,10,,,1,,no,public,"Enterprise tier is publicly priced here, unlike most of the set",https://www.zoho.com/projects/pricing.html,2026-10-02
+Zoho Projects,Ultimate,3,per_seat,14,15,,,1,,no,public,,https://www.zoho.com/projects/pricing.html,2026-10-02
+GanttPRO,Core,1,per_seat,7,,,,1,,no,public,"price shown at the 20-member team size; page states lower price per user for larger teams",https://ganttpro.com/pricing/,2026-10-02
+GanttPRO,Advanced,2,per_seat,10,,,,1,,no,public,"custom fields and filters start here; price at 20 members",https://ganttpro.com/pricing/,2026-10-02
+GanttPRO,Business,3,per_seat,17,,,,1,,no,public,"workload management, portfolios and time tracking start here; price at 20 members",https://ganttpro.com/pricing/,2026-10-02
+GanttPRO,Enterprise,4,per_seat,20,,,,5,,no,public,"list $30 shown struck through at $20; 5+ users; SAML SSO and custom roles start here",https://ganttpro.com/pricing/,2026-10-02
+Runrun.it,Free,0,per_seat,0,0,,,1,5,yes,public,"up to 5 users",https://runrun.it/en-US/plans-and-prices,2026-10-02
+Runrun.it,Business,1,per_seat,10,12,,,5,,no,public,"from 5 users",https://runrun.it/en-US/plans-and-prices,2026-10-02
+Runrun.it,Enterprise,2,per_seat,26,,,,5,,no,public,"annual billing only; publicly priced",https://runrun.it/en-US/plans-and-prices,2026-10-02

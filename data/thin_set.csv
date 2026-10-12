@@ -1,0 +1,19 @@
+vendor,g2_rank,paid_tiers,tiers_with_price,tiers_contact_sales,free_plan,visibility,confidence,pricing_url,collected_on,in_category
+Airtable,10,3,2,1,yes,partial,text_fetch,https://airtable.com/pricing,2026-10-02,no
+Quickbase,13,2,1,1,no,partial,text_fetch,https://www.quickbase.com/pricing,2026-10-02,no
+Adobe Workfront,17,3,0,3,no,contact_sales_only,browser_verified,https://business.adobe.com/products/workfront/pricing.html,2026-10-02,yes
+Todoist,20,2,2,0,yes,public,browser_verified,https://todoist.com/pricing,2026-10-02,no
+Celoxis,25,5,4,1,no,partial,text_fetch,https://www.celoxis.com/pricing,2026-10-02,yes
+Scoro,26,4,4,0,yes,public,text_fetch,https://www.scoro.com/pricing/,2026-10-02,yes
+Aha!,29,3,3,0,no,public,text_fetch,https://www.aha.io/roadmaps/pricing,2026-10-02,yes
+ProofHub,37,2,2,0,yes,public,text_fetch,https://www.proofhub.com/pricing,2026-10-02,yes
+SmartSuite,46,3,2,1,yes,partial,text_fetch,https://www.smartsuite.com/pricing,2026-10-02,yes
+Freedcamp,33,3,3,0,yes,public,text_fetch,https://freedcamp.com/pricing,2026-10-02,yes
+Backlog,27,4,3,1,yes,partial,text_fetch,https://nulab.com/pricing/backlog/,2026-10-02,yes
+Worksection,34,3,3,0,yes,public,text_fetch,https://worksection.com/en/price.html,2026-10-02,yes
+Orangescrum,49,4,3,1,yes,partial,text_fetch,https://www.orangescrum.com/pricing,2026-10-02,yes
+Productive,41,3,2,1,no,partial,text_fetch,https://www.productive.io/pricing/,2026-10-02,yes
+Workzone,42,3,2,1,no,partial,text_fetch,https://workzone.com/pricing/,2026-10-02,yes
+Bordio,44,1,1,0,yes,public,text_fetch,https://bordio.com/pricing/,2026-10-02,yes
+Lytho,28,3,0,3,no,contact_sales_only,browser_verified,https://www.lytho.com/pricing/,2026-10-02,yes
+ProProfs Project,47,1,1,0,yes,public,text_fetch,https://www.proprofsproject.com/pricing/,2026-10-02,yes

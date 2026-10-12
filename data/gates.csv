@@ -1,0 +1,63 @@
+vendor,tier,saml_sso,scim,audit_log,custom_roles,guest_access,gantt_timeline,custom_fields,automation_cap_month,api_access,sla,sandbox,data_residency
+Smartsheet,Pro,not_stated,no,not_stated,not_stated,no,yes,not_stated,250,no,not_stated,not_stated,not_stated
+Smartsheet,Business,not_stated,no,not_stated,not_stated,yes,yes,not_stated,unlimited,yes,not_stated,not_stated,not_stated
+Smartsheet,Enterprise,yes,yes,not_stated,not_stated,yes,yes,not_stated,unlimited,yes,not_stated,not_stated,not_stated
+Smartsheet,Advanced Work Management,yes,yes,not_stated,not_stated,yes,yes,not_stated,unlimited,yes,not_stated,not_stated,not_stated
+monday.com,Free,not_stated,not_stated,not_stated,not_stated,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+monday.com,Basic,not_stated,not_stated,not_stated,not_stated,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+monday.com,Standard,not_stated,not_stated,not_stated,not_stated,not_stated,yes,not_stated,250,not_stated,not_stated,not_stated,not_stated
+monday.com,Pro,not_stated,not_stated,not_stated,not_stated,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+monday.com,Enterprise,not_stated,not_stated,not_stated,not_stated,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+ClickUp,Free Forever,not_stated,no,not_stated,no,no,no,yes,not_stated,not_stated,not_stated,not_stated,no
+ClickUp,Unlimited,not_stated,no,not_stated,no,yes,yes,yes,not_stated,not_stated,not_stated,not_stated,no
+ClickUp,Business,not_stated,no,not_stated,no,yes,yes,yes,5000,not_stated,not_stated,not_stated,no
+ClickUp,Enterprise,yes,yes,yes,yes,yes,yes,yes,250000,yes,not_stated,not_stated,yes
+Trello,Free,not_stated,no,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Trello,Standard,not_stated,no,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Trello,Premium,not_stated,no,not_stated,no,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Trello,Enterprise,yes,yes,not_stated,yes,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Asana,Personal,not_stated,no,not_stated,not_stated,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Asana,Starter,not_stated,no,not_stated,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Asana,Advanced,not_stated,no,not_stated,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Asana,Enterprise,yes,yes,not_stated,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Notion,Free,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Notion,Plus,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Notion,Business,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Notion,Enterprise,yes,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Jira,Free,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,no,no,no
+Jira,Standard,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,yes,no,no,no
+Jira,Premium,not_stated,no,not_stated,not_stated,not_stated,yes,not_stated,not_stated,yes,yes,yes,no
+Jira,Enterprise,not_stated,yes,not_stated,not_stated,not_stated,yes,not_stated,not_stated,yes,yes,yes,yes
+Basecamp,Free,not_stated,no,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Basecamp,Freelancer,not_stated,no,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Basecamp,Studio,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Basecamp,Pro,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Basecamp,Unlimited Edition,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Wrike,Free,not_stated,no,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Wrike,Team,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Wrike,Business,not_stated,not_stated,not_stated,not_stated,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated
+Wrike,Pinnacle,yes,not_stated,not_stated,not_stated,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated
+Wrike,Apex,yes,not_stated,not_stated,not_stated,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated
+Teamwork.com,Free,no,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Teamwork.com,Basics,no,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Teamwork.com,Accelerate,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Teamwork.com,Optimize,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Teamwork.com,Enterprise,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+TeamGantt,Base,not_stated,not_stated,not_stated,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+TeamGantt,Business,not_stated,not_stated,not_stated,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+TeamGantt,Builder Edition,not_stated,not_stated,not_stated,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Hive,Free,not_stated,no,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Hive,Starter,not_stated,no,not_stated,no,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Hive,Teams,not_stated,no,not_stated,no,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Hive,Enterprise,yes,not_stated,not_stated,yes,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Zoho Projects,Free,not_stated,no,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Zoho Projects,Premium,not_stated,not_stated,not_stated,not_stated,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Zoho Projects,Enterprise,yes,not_stated,not_stated,not_stated,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Zoho Projects,Ultimate,yes,not_stated,not_stated,not_stated,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+GanttPRO,Core,not_stated,no,not_stated,no,not_stated,yes,no,not_stated,not_stated,not_stated,not_stated,not_stated
+GanttPRO,Advanced,not_stated,no,not_stated,no,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated
+GanttPRO,Business,not_stated,no,not_stated,no,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated
+GanttPRO,Enterprise,yes,not_stated,not_stated,yes,not_stated,yes,yes,not_stated,not_stated,not_stated,not_stated,not_stated
+Runrun.it,Free,not_stated,no,not_stated,no,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Runrun.it,Business,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
+Runrun.it,Enterprise,yes,not_stated,yes,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated,not_stated
