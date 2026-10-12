@@ -1,11 +1,11 @@
-vendor,tier,seats,price_annual_usd,annual_per_user_usd,source,collected_on
-Trello,Enterprise,50,17.50,210.00,pricing page seat slider,2026-10-02
-Trello,Enterprise,389,16.61,199.28,pricing page seat slider,2026-10-02
-Trello,Enterprise,1066,12.78,153.32,pricing page seat slider,2026-10-02
-Trello,Enterprise,4405,7.70,92.35,pricing page seat slider,2026-10-02
-Jira,Standard,10,,9.05,pricing page team size box (billed monthly),2026-10-02
-Jira,Standard,100,,9.05,pricing page team size box (billed monthly),2026-10-02
-Jira,Standard,500,,7.31,pricing page team size box (billed monthly),2026-10-02
-Jira,Premium,10,,18.30,pricing page team size box (billed monthly),2026-10-02
-Jira,Premium,100,,18.30,pricing page team size box (billed monthly),2026-10-02
-Jira,Premium,500,,12.55,pricing page team size box (billed monthly),2026-10-02
+vendor,tier,seats,price_annual_usd,price_monthly_usd,annual_per_user_usd,source,collected_on,pricing_url
+Trello,Enterprise,50,17.50,,210.00,pricing page seat slider,2026-10-02,https://trello.com/pricing
+Trello,Enterprise,389,16.61,,199.28,pricing page seat slider,2026-10-02,https://trello.com/pricing
+Trello,Enterprise,1066,12.78,,153.32,pricing page seat slider,2026-10-02,https://trello.com/pricing
+Trello,Enterprise,4405,7.70,,92.35,pricing page seat slider,2026-10-02,https://trello.com/pricing
+Jira,Standard,10,,9.05,,pricing page team size box (billed monthly),2026-10-02,https://www.atlassian.com/software/jira/pricing
+Jira,Standard,100,,9.05,,pricing page team size box (billed monthly),2026-10-02,https://www.atlassian.com/software/jira/pricing
+Jira,Standard,500,,7.31,,pricing page team size box (billed monthly),2026-10-02,https://www.atlassian.com/software/jira/pricing
+Jira,Premium,10,,18.30,,pricing page team size box (billed monthly),2026-10-02,https://www.atlassian.com/software/jira/pricing
+Jira,Premium,100,,18.30,,pricing page team size box (billed monthly),2026-10-02,https://www.atlassian.com/software/jira/pricing
+Jira,Premium,500,,12.55,,pricing page team size box (billed monthly),2026-10-02,https://www.atlassian.com/software/jira/pricing

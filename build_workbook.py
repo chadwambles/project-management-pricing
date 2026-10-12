@@ -331,17 +331,20 @@ ws["A2"] = ("Collected by driving each vendor's own seat selector. The model abo
             "apply these bands; it uses list price, which overstates cost at large team sizes "
             "for these two vendors.")
 ws["A2"].font = SUB
-header(ws, 4, ["Vendor","Tier","Seats","Price per seat","Annual per user","Source","Collected"],
-       [16,16,10,14,15,40,11])
+header(ws, 4, ["Vendor","Tier","Seats","Per seat, monthly rate on annual billing",
+               "Per seat, monthly rate on monthly billing","Per seat per year on annual billing",
+               "Source","Collected"],
+       [16,16,10,18,18,18,40,11])
+NUMERIC = ("seats","price_annual_usd","price_monthly_usd","annual_per_user_usd")
 for i, b in enumerate(bands):
     r = i + 5
-    for j, k in enumerate(["vendor","tier","seats","price_annual_usd",
+    for j, k in enumerate(["vendor","tier","seats","price_annual_usd","price_monthly_usd",
                            "annual_per_user_usd","source","collected_on"], 1):
         v = b[k]
-        if k in ("seats","price_annual_usd","annual_per_user_usd") and v:
+        if k in NUMERIC and v:
             v = float(v)
         c = ws.cell(row=r, column=j, value=v if v != "" else None); c.font = CALC
-        if j in (4,5): c.number_format = MONEY
+        if j in (4,5,6): c.number_format = MONEY
 
 ws = wb.create_sheet("Add-ons")
 ws["A1"] = "Capabilities sold separately"; ws["A1"].font = TITLE
