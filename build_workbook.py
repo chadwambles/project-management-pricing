@@ -107,7 +107,7 @@ rows = [
  (5, "Seats today", 25, "0", "How many people need a paid seat now."),
  (6, "Annual growth in seats", 0.20, "0.0%", "Used to project seats over the horizon."),
  (7, "Horizon, months", 36, "0", "Length of the commitment you are costing."),
- (8, "Billing cadence", "annual", None, "annual or monthly. Annual is cheaper everywhere in this data, by 14% to 37%."),
+ (8, "Billing cadence", "annual", None, "annual or monthly. Annual is cheaper on all 23 tiers priced both ways, by 7% to 37%."),
  (10, "WHAT THE TOOL MUST DO", None, None, None),
  (11, "Require SAML single sign-on", "no", None, "yes or no. Set yes and watch how few tiers survive."),
  (12, "Require an audit log", "no", None, "yes or no."),
